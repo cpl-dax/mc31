@@ -1,0 +1,164 @@
+[
+  {
+    "question":"Les valeurs typiques de densité sont:",
+    "options":[
+      "Réponse A<br>0,76 pour le carburant JP1 et de 0,80 pour l ’huile",
+      "Réponse B<br>0,79 pour le carburant JP1 et de 0,88 pour l ’huile",
+      "Réponse C<br>0,79 pour le carburant JP1 et de 0,80 pour l ’huile",
+      "Réponse D<br>0,76 pour le carburant JP1 et de 0,88 pour l ’huile"
+    ],
+    "answer":1
+  },
+  {
+    "question":"La jauge de carburant de l’aéonef est étalonnée en litres et la quantité de carburant requise et de 1250 lb pour le prochain vol.<br>Si le camion-citerne fournit du carburant en litres, combien de litre sont nécessaires, avec une densité spécifique de 0,79 selon le Manuel d'exploitation?",
+    "options":[
+      "Réponse A<br>448 l",
+      "Réponse B<br>718 l",
+      "Réponse C<br>988 l",
+      "Réponse D<br>1582 l"
+    ],
+    "answer":1
+  },
+  {
+    "question":"Concernant la conversion du volume de carburant en masse:",
+    "options":[
+      "Réponse A<br>Cela peut être fait en utilisant les valeurs de densité de carburant spécifiées dans le manuel d’exploitation si la densité réelle du carburant n’est pas connue",
+      "Réponse B<br>Cela doit être fait en utilisant les valeurs de densité de carburant De 0,79 pour le JP1 et de 0,76 pour le JP4 comme spécifié dans les JAR – OPS, IEM-OPS 1.605.E",
+      "Réponse C<br>Cela peut être fait en utilisant les valeurs standards de densité de carburant telles que spécifiées dans les JAR – OPS",
+      "Réponse D<br>Cela doit être fait en utilisant les valeurs réelles de densité de carburant mesurées"
+    ],
+    "answer":0
+  },
+  {
+    "question":"Quelle personne a le droit de demander l’augmentation du carburant discrétionnaire ou extra fuel?",
+    "options":[
+      "Réponse A<br>L’opérateur",
+      "Réponse B<br>Le commandant de bord",
+      "Réponse C<br>Le flying dispatch",
+      "Réponse D<br>Le responsable des opérations"
+    ],
+    "answer":1
+  },
+  {
+    "question":"La masse réelle au décollage est égale à:",
+    "options":[
+      "Réponse A<br>La masse de base plus le carburant au décollage.",
+      "Réponse B<br>La masse de base plus le carburant au décollage et la charge marchande.",
+      "Réponse C<br>La masse sans carburant plus la charge marchande.",
+      "Réponse D<br>La masse atterrissage plus le carburant au décollage."
+    ],
+    "answer":1
+  },
+  {
+    "question":"La masse forfaitaire retenue pour un enfant de moins de 12 ans dans le devis de masse et de centrage est de:",
+    "options":[
+      "Réponse A<br>35 kg s'il a plus de 2 ans et s'il occupe un siège, 10 kg s'il a moins de 2 ans et s'il occupe un siège",
+      "Réponse B<br>35 kg quel que soit son âge s'il occupe un siège",
+      "Réponse C<br>35 kg s'il a plus de 2 ans et s’il occupe un siège et 10 kg s’il a moins de 2 ans et qu’il occupe pas de siège.",
+      "Réponse D<br>35 kg s'il a plus de 2 ans et s'il occupe un siège."
+    ],
+    "answer":1
+  },
+  {
+    "question":"La masse à vide en ordre d’exploitation représente la différence entre",
+    "options":[
+      "Réponse A<br>La masse au décollage et la masse en opérations.",
+      "Réponse B<br>La masse sans carburant et la charge marchande.",
+      "Réponse C<br>La charge marchande et le carburant au décollage.",
+      "Réponse D<br>La masse au décollage et la masse de base."
+    ],
+    "answer":1
+  },
+  {
+    "question":"La responsabilité dans la détermination de la masse des équipements opérationnels et des membres de l’équipage incluse dans la masse de base appartient:",
+    "options":[
+      "Réponse A<br>A l'exploitant.",
+      "Réponse B<br>A la personne qui remplit la feuille de pesée.",
+      "Réponse C<br>Au commandant de bord.",
+      "Réponse D<br>Aux autorités de l’Etat d’immatriculation."
+    ],
+    "answer":0
+  },
+  {
+    "question":"Les fluides chimiques utilisés pour les toilettes des avions font partie de:",
+    "options":[
+      "Réponse A<br>La masse à vide équipée.",
+      "Réponse B<br>La charge résiduelle.",
+      "Réponse C<br>L’équipement variable.",
+      "Réponse D<br>La charge payante."
+    ],
+    "answer":2
+  },
+  {
+    "question":"Lorsque les masses forfaitaires sont utilisées, les bébés occupant un siège séparé doivent être considérés comme:",
+    "options":[
+      "Réponse A<br>La même masse s’ils sont inférieurs à 2 ans.",
+      "Réponse B<br>Des adultes.",
+      "Réponse C<br>Des enfants.",
+      "Réponse D<br>Des bébés après avoir été pesés."
+    ],
+    "answer":2
+  },
+  {
+    "question":"Pour calculer la limitation utile, les facteurs à prendre en compte incluent:",
+    "options":[
+      "Réponse A<br>La somme de la masse maximale à l’atterrissage et le délestage.",
+      "Réponse B<br>La masse maximale au décollage moins le délestage.",
+      "Réponse C<br>La somme de la masse maximale à l’atterrissage et le carburant à bord au décollage.",
+      "Réponse D<br>La somme de la masse maximale sans carburant et le délestage."
+    ],
+    "answer":0
+  },
+  {
+    "question":"La masse maximale de structure au décollage est:",
+    "options":[
+      "Réponse A<br>Une masse limitative au décollage qui est affectée par l’altitude et la température du terrain.",
+      "Réponse B<br>Une masse limitative au décollage dictée par la pente de montée après avoir atteinte V2.",
+      "Réponse C<br>Limitée par la distance de décollage disponible. Elle est publiée dans les tableaux du Manuel de Vol.",
+      "Réponse D<br>Une limitation qui ne doit pas être dépassée pour aucun décollage."
+    ],
+    "answer":3
+  },
+  {
+    "question":"Le calcul du centrage permet de vérifier que l'aéronef:",
+    "options":[
+      "Réponse A<br>A assez de carburant pour le vol envisagé.",
+      "Réponse B<br>Reste dans les limites de stabilité et de maniabilité déterminées lors de la certification.",
+      "Réponse C<br>Ne dépasse pas la masse maximale en fonction de l'altitude.",
+      "Réponse D<br>Ne dépasse pas la masse maximale sans carburant."
+    ],
+    "answer":1
+  },
+  {
+    "question":"Un pivot est placé au milieu d’une planche de 3m de long.<br>Sur l’extrémité gauche est suspendue une masse de 1 Kg, à l’extrémité droite est suspendue une masse de 2 Kg.<br><br>Dans quelle direction et de combien la planche doit-elle être déplacée pour avoir les deux cotés en équilibre?",
+    "options":[
+      "Réponse A<br>0,5 m vers la masse de 1 Kg",
+      "Réponse B<br>0,5 m vers la masse de 2 Kg",
+      "Réponse C<br>0,4 m vers la masse de 1 Kg",
+      "Réponse D<br>0,4 m vers la masse de 2 Kg"
+    ],
+    "answer":1
+  },
+  {
+    "question":"Se référer à l'annexe<br>Fa 100 N ; distance A : 6 m ; distance B : 3m.<br>Quelle est la valeur de Fb pour obtenir l’équilibre?<br><img src=\"EQUILIBRE.png\" alt=\"Equilibre\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options":[
+      "Réponse A<br>200 N",
+      "Réponse B<br>300 N",
+      "Réponse C<br>50 N",
+      "Réponse D<br>100 N"
+    ],
+    "answer":0
+  },
+  {
+    "question":"On vous donne limite avant 2,14 m, limite arrière 2,41 m la masse actuelle de l’appareil est de 1530 kg.<br>Le centrage actuel est situé à 2,08 m du plan de référence.<br>La soute 1 se situe à 1,38 m du datum, la soute 2 se situe à 4,38 m du datum.<br><br>Quelle est la masse minimum à ajouter et dans quelle soute pour que le centrage revienne dans la norme?",
+    "options":[
+      "Réponse A<br>41 kg dans la soute 1",
+      "Réponse B<br>41 kg dans la soute 2 ",
+      "Réponse C<br>137 kg dans la soute 1",
+      "Réponse D<br>137 kg dans la soute 2"
+    ],
+    "answer":3
+  }
+  
+  
+]
