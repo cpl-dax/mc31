@@ -153,11 +153,111 @@
     "question":"On vous donne limite avant 2,14 m, limite arrière 2,41 m la masse actuelle de l’appareil est de 1530 kg.<br>Le centrage actuel est situé à 2,08 m du plan de référence.<br>La soute 1 se situe à 1,38 m du datum, la soute 2 se situe à 4,38 m du datum.<br><br>Quelle est la masse minimum à ajouter et dans quelle soute pour que le centrage revienne dans la norme?",
     "options":[
       "Réponse A<br>41 kg dans la soute 1",
-      "Réponse B<br>41 kg dans la soute 2 ",
+      "Réponse B<br>41 kg dans la soute 2",
       "Réponse C<br>137 kg dans la soute 1",
       "Réponse D<br>137 kg dans la soute 2"
     ],
     "answer":3
+  },
+  {
+    "question":"Un membre du cockpit avec une masse standard de 85 kg occupe le siege observateur 1<br>Quel sera le changement au niveau de la Masse de base ou Masse à vide en ordre d’exploitation observateur?<br><img src=\"tableauobs.png\" alt=\"Tableau\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options":[
+      "Réponse A<br>-1,343",
+      "Réponse B<br>-0,0161",
+      "Réponse C<br>-473,3",
+      "Réponse D<br>-0,0158"
+    ],
+    "answer":0
+  },
+  {
+    "question":"Suite à la préparation avant le vol, un pilote autorise l’emport d’une charge supplémentaire de 3000 kg mais par erreur ne recalcule pas les performances de l'aéronef, la phase de décollage et d’atterrissage se déroulent en sécurité, la conséquence due à l’erreur du pilote va entraîner:",
+    "options":[
+      "Réponse A<br>Un meilleur angle de montée et un meilleur franchissement des obstacles",
+      "Réponse B<br>Une augmentation du débit carburant et de l’autonomie spécifique",
+      "Réponse C<br>Une diminution du débit carburant et de l’autonomie",
+      "Réponse D<br>Une diminution du taux de montée et du rayon d’action (range)"
+    ],
+    "answer":3
+  },
+  {
+    "question":"Le point de référence utilisé pour déterminer les bras de levier est défini par...",
+    "options":[
+      "Réponse A<br>L’exploitant de l’hélicoptère",
+      "Réponse B<br>Le constructeur de l’hélicoptère",
+      "Réponse C<br>Le pilote aux commandes de l’hélicoptère",
+      "Réponse D<br>L’autorité de l’aviation civile"
+    ],
+    "answer":1
+  },
+  {
+    "question":"Le DOI (dry operating index) est le moment correspondant à la position:",
+    "options":[
+      "Réponse A<br>Du CG à la masse de base divisé par une constante.",
+      "Réponse B<br>Du bras de levier du réservoir vide de carburant divisé par la masse du carburant prévu.",
+      "Réponse C<br>De la masse à vide équipée divisée par 1000.",
+      "Réponse D<br>Du CG à la masse de base divisée par la masse du carburant inutilisable."
+    ],
+    "answer":0
+  },
+  {
+    "question":"Parmi les propositions suivantes, laquelle est un exemple correct de calcul de l’index de base DOI (dry operating index)",
+    "options":[
+      "Réponse A<br>DOI = somme des moments de la masse de base / 12000",
+      "Réponse B<br>DOI = masse à vide équipée + équipage + items opérationnels",
+      "Réponse C<br>DOI = somme des moments de la masse de base / masse de base",
+      "Réponse D<br>DOI = CG de la masse de base / 10000"
+    ],
+    "answer":0
+  },
+  {
+    "question":"Pour calculer le centre de gravité d'un aéronef, l'utilisation pratique de la méthode de l'index consiste à:",
+    "options":[
+      "Réponse A<br>Réduire la grandeur des valeurs des moments et simplifier les calculs",
+      "Réponse B<br>Simplifier les calculs en prenant des masses standards pour les passagers et le fret",
+      "Réponse C<br>Déterminer le CG en utilisant un tableau d'index avec des groupes de passagers au lieu d'un comptage individuel",
+      "Réponse D<br>indiquer visuellement le CG sur un tableau de limites sans utiliser les calculs"
+    ],
+    "answer":0
+  },
+  {
+    "question":"Comment calculer l'index de la masse de base (DOI)?",
+    "options":[
+      "Réponse A<br>DOI = masse à vide équipée (BEM) + équipage + élément opérationnel",
+      "Réponse B<br>DOI = somme des moments de la masse de base (DOM) / 12 000",
+      "Réponse C<br>DOI = somme des moments de la masse de base/masse de base",
+      "Réponse D<br>DOI = CG des DOM / 10 000"
+    ],
+    "answer":1
+  },
+  {
+    "question":"Reportez-vous à la figure<br>Pour un vol donné, la masse de base (DOM) et sa DOI sont respectivement de 34 750 kg et 43<br>Si un membre d’équipage de cabine est ajouté à la porte avant de la cabine et que 200 kg de restauration supplémentaire sont chargés à la cuisine avant, les nouveaux DOM et DOI sont:<br><img src=\"FIGURE.png\" alt=\"Figure\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options":[
+      "Réponse A<br>34 950 kg et 38,6",
+      "Réponse B<br>35025 kg et 40,1",
+      "Réponse C<br>35 025 kg et 37,3",
+      "Réponse D<br>34950 kg et 45,7"
+    ],
+    "answer":2
+  },
+  {
+    "question":"Un centrage en dehors des limites définies par le constructeur peut:",
+    "options":[
+      "Réponse A<br>Provoquer un désamorçage du circuit carburant lorsque l'alimentation est réalisée par gravité.",
+      "Réponse B<br>Engendrer une diminution d'efficacité de la lubrification des ensembles mécaniques.",
+      "Réponse C<br>Dans certaines configurations de vol, entraîner un heurt entre les pales du rotor principal et la poutre de queue.",
+      "Réponse D<br>Empêcher le pilotage de l'aéronef par manque de débattement des commandes de vol."
+    ],
+    "answer":3
+  },
+  {
+    "question":"Les bras de levier sont mesurés entre un point spécifique et l'emplacement du fuselage où se situe la masse à prendre en compte, ce point s'appelle:",
+    "options":[
+      "Réponse A<br>La référence",
+      "Réponse B<br>Le centre de gravité de l'hélicoptère",
+      "Réponse C<br>Le foyer",
+      "Réponse D<br>L'axe"
+    ],
+    "answer":0
   }
   
   
