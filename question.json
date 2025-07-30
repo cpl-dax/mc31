@@ -488,6 +488,46 @@
       "Réponse D<br>754 lb"
     ],
     "answer":1
+  },
+  {
+    "question":"La résistance de plancher d’un compartiment de soute et de 732 kg/m2.<br>Choisissez la plus petite palette parmi les réponses proposées permettant de charger une caisse de 806 kg.",
+    "options":[
+      "Réponse A<br>1,2 m x 1,2 m",
+      "Réponse B<br>1,4 m x 1,4 m",
+      "Réponse C<br>1,0 m x 1,0 m",
+      "Réponse D<br>0,8 m x 0,8 m"
+    ],
+    "answer":0
+  },
+  {
+    "question":"La position du CG d’un aéronef à la masse à vide équipée se trouve dans:",
+    "options":[
+      "Réponse A<br>La feuille de pesée",
+      "Réponse B<br>Le manuel de planification et de performances de vol",
+      "Réponse C<br>La liste d’équipement minimum (LME)",
+      "Réponse D<br>Le manuel de formation de l’équipage de conduite"
+    ],
+    "answer":0
+  },
+  {
+    "question":"La limite de masse totale d'un bimoteur léger est égale à 3200 lb, le pilote pèse 200 lb et la masse combiner des passagers et de leurs bagages et de 850 lb, en supposant une masse opérationnelle à sec de 1742 lb, quelle quantité de carburant peut être chargé?",
+    "options":[
+      "Réponse A<br>808 kg",
+      "Réponse B<br>166 kg",
+      "Réponse C<br>367 kg",
+      "Réponse D<br>367 lb"
+    ],
+    "answer":2
+  },
+  {
+    "question":"Déterminez le moment de la masse du carburant au bloc sachant que:<br><br>Masse à vide équipée : 3210lb<br>Un pilote : 160 lb<br>Passager siège avant : 200 lb<br>Passagers sur les sièges centraux : 290lb. (total)<br>Un passager sur le siège arrière 110 lb.<br>Bagages en zone 1 : 100 lb<br>Bagages en zone 4 : 50 lb<br>Carburant au bloc : 100 US Gal.<br>Délestage : 55 US Gal.<br>Carburant démarrage et roulage : 3 US Gal.<br>Densité carburant : 6 lb/US Gal.<br><img src=\"BEM.png\" alt=\"BEM\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options":[
+      "Réponse A<br>433 906 lb in",
+      "Réponse B<br>9360 lb in",
+      "Réponse C<br>56 160 lb in",
+      "Réponse D<br>30 888 lb in"
+    ],
+    "answer":2
   }
   
   
