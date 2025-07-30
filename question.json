@@ -258,6 +258,236 @@
       "Réponse D<br>L'axe"
     ],
     "answer":0
+  },
+  {
+    "question":"Reportez-vous à la figure<br> A l'aide de l'annexe, déterminez la masse à vide équipée (BEM) de l'aéronef<br><img src=\"MASSES.png\" alt=\"Masses\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options":[
+      "Réponse A<br>1855 livres",
+      "Réponse B<br>1820 livres",
+      "Réponse C<br>2870 livres",
+      "Réponse D<br>1920 livres"
+    ],
+    "answer":1
+  },
+  {
+    "question":"La résistance plancher d’une soute d’un aéronef est de 750 Kg/m2<br>Un colis sur une palette de 600 Kg doit être chargé.<br>En supposant que la base de la palette de chargement soit entièrement en contact avec le plancher, la taille minimale de palette qui doit être utilisée est...",
+    "options":[
+      "Réponse A<br>30cm par 300 cm",
+      "Réponse B<br>30 cm par 200 cm",
+      "Réponse C<br>40 cm par 200 cm",
+      "Réponse D<br>40cm par 300 cm"
+    ],
+    "answer":2
+  },
+  {
+    "question":"Les résultats suivants sont obtenus après pesée d'un hélicoptère:<br><br>Masse au point avant: 300 kg.<br>Masse au point arrière droit: 1 100 kg.<br>Masse au point arrière gauche: 950 kg.<br>Le point avant est situé à 0,30 m à gauche de l'axe longitudinal et les points arrières sont symétriquement situés à 1,20 m de cet axe.<br>La position latérale du centre de gravité par rapport à l'axe longitudinal est de:",
+    "options":[
+      "Réponse A<br>11 cm à droite",
+      "Réponse B<br>4 cm à gauche",
+      "Réponse C<br>11 cm à gauche",
+      "Réponse D<br>4 cm à droite"
+    ],
+    "answer":3
+  },
+  {
+    "question":"Le train d’atterrissage d’un aéronef est composé d’un train avant muni de deux roues et d’un train principal, formé par deux jambes, chacune munie de deux roues<br>Au sol, le poids de l’avion se répartit ainsi:<br><br>7250N sur chacune des deux roues avant<br>60000 N sur chacune des quatre roues du train principal<br>La distance entre la roulette de nez et le train principal est de 10 mètres<br>A quelle distance en avant du train principal se situe le CG de l’avion?",
+    "options":[
+      "Réponse A<br>57 cm",
+      "Réponse B<br>108 cm",
+      "Réponse C<br>176 cm",
+      "Réponse D<br>93 cm"
+    ],
+    "answer":0
+  },
+  {
+    "question":"Étant donné:<br><br>- Masse maximale au décollage 64 400 kg, masse maximale à l'atterrissage 56 200 kg.<br>- Masse maximale sans carburant 53 000 kg, masse de base 35 500 kg.<br>- Charge marchande 14 500 kg, délestage d'étape 4 900 kg.<br>- Carburant au décollage 7 400 kg.<br>La charge supplémentaire maximale est de:",
+    "options":[
+      "Réponse A<br>4 000 kg",
+      "Réponse B<br>5 600 kg",
+      "Réponse C<br>7 000 kg",
+      "Réponse D<br>3 000 kg"
+    ],
+    "answer":3
+  },
+  {
+    "question":"Un aéronef est limité par les performances à une masse à l’atterrissage de 54 230 kg.<br>La masse de base est de 35 000 kg et la masse sans carburant 52 080 kg.<br>Si la masse au décollage est de 64 280 kg, la charge utile sera de:",
+    "options":[
+      "Réponse A<br>29 280 kg",
+      "Réponse B<br>12 200 kg",
+      "Réponse C<br>17 080 kg",
+      "Réponse D<br>10 080 kg"
+    ],
+    "answer":0
+  },
+  {
+    "question":"Les données relatives à un aéronef sont les suivantes:<br><br>- masse au décollage : 141 000 kg.<br>- carburant total au décollage : 63 000 kg.<br>dont réserves de carburant : 14 000 kg.<br>dont carburant inutilisable : 1 000 kg.<br>- charge commerciale : 12 800 kg.<br>La masse sans carburant de cet avion est de:",
+    "options":[
+      "Réponse A<br>93 000 kg",
+      "Réponse B<br>65 200 kg",
+      "Réponse C<br>79 000 kg",
+      "Réponse D<br>78 000 kg"
+    ],
+    "answer":2
+  },
+  {
+    "question":"Étant donné:<br><br>- Masse maximale de structure au décollage : 146 900 kg.<br>- Masse maximale de structure à l'atterrissage : 93 800 kg.<br>- Masse maximale sans carburant : 86 400 kg.<br>- Délestage : 27 500 kg.<br>- Carburant au parking : 35 500 kg.<br>- Carburant pour le démarrage des moteurs et le roulage : 1 000 kg.<br>La limitation utile est de:",
+    "options":[
+      "Réponse A<br>120 900 kg",
+      "Réponse B<br>121 300 kg",
+      "Réponse C<br>113 900 kg",
+      "Réponse D<br>120 300 kg"
+    ],
+    "answer":0
+  },
+  {
+    "question":"Les bagages de dernière minute et les bagages de l’équipage sont placés dans/sur:",
+    "options":[
+      "Réponse A<br>le compartiment des marchandises dangereuses.",
+      "Réponse B<br>la soute vrac.",
+      "Réponse C<br>les palettes.",
+      "Réponse D<br>les conteneurs."
+    ],
+    "answer":1
+  },
+  {
+    "question":"Laquelle des propositions suivantes est correcte?",
+    "options":[
+      "Réponse A<br>Les animaux vivants ne sont jamais chargés comme le fret en vrac.",
+      "Réponse B<br>Les palettes sont utilisées principalement sur les avions de petite taille et elles sont attachées par des sangles.",
+      "Réponse C<br>Les conteneurs sont arrimés directement à l’avion et chaque conteneur possède son propre manifeste.",
+      "Réponse D<br>Le chargement du fret en vrac requiert moins de personnel sol que le chargement des conteneurs."
+    ],
+    "answer":2
+  },
+  {
+    "question":"Avant son départ un hélicoptère est avitaillé avec le carburant maximal soit 2367 litres de densité égale à 0,79, à partir des éléments suivants:<br><br>Masse maximale de structure au roulage : 8600 kg<br>Masse maximale de structure au décollage : 8600 kg<br>Masse maximale au décollage limitée par les performances : 8540 kg<br>Masse maximale à l’atterrissage limitée par les performances : 8310 kg<br>Masse de base : 5020 kg<br>Roulage : 15 kg<br>Délestage : 1030 kg<br>Réserve de route + réserve finale : 480 kg<br>Réserve de dégagement : 250 kg<br><br>Déterminez la charge offerte:",
+    "options":[
+      "Réponse A<br>1435 kg",
+      "Réponse B<br>1665 kg",
+      "Réponse C<br>1650 kg",
+      "Réponse D<br>1570 kg"
+    ],
+    "answer":1
+  },
+  {
+    "question":"Les limites du domaine de centrage sont 72 in à 77 in en arrière du point de référence. Si la masse est de 3 700 kg et la position du CG est situé à 76,5 in en arrière du point de référence, quel serait le déplacement de la position du CG si 60 kg sont enlevés de la soute avant situé à 147 in avant le point de référence?",
+    "options":[
+      "Réponse A<br>3,68 in",
+      "Réponse B<br>4,66 in",
+      "Réponse C<br>2,12 in",
+      "Réponse D<br>3,31 in"
+    ],
+    "answer":0
+  },
+  {
+    "question":"Masse Maximale de Structure au décollage: 6100 kg<br>Masse maximale performance au décollage: 6000 kg<br>Masse maximale performance à l'atterrissage: 5250 kg<br>Masse à vide en ordre d'exploitation: 3460 kg<br>Carburant au bloc: 950 kg<br>Délestage: 530 kg<br>Roulage: 20 Kg<br>La charge offerte est de...",
+    "options":[
+      "Réponse A<br>1630 Kg",
+      "Réponse B<br>1730 kg",
+      "Réponse C<br>880 Kg",
+      "Réponse D<br>1390 Kg"
+    ],
+    "answer":3
+  },
+  {
+    "question":"La résistance de plancher d’un compartiment de soute et de 732 kg/m2.<br>Choisissez la plus petite palette parmi les réponses proposées permettant de charger une caisse de 806 kg.",
+    "options":[
+      "Réponse A<br>1,2 m x 1,2 m",
+      "Réponse B<br>1,4 m x 1,4 m",
+      "Réponse C<br>1,0 m x 1,0 m",
+      "Réponse D<br>0,8 m x 0,8 m"
+    ],
+    "answer":0
+  },
+  {
+    "question":"Le chargement doit être correctement arrimé dans le but:",
+    "options":[
+      "Réponse A<br>d’éviter tout déplacement du CG pendant le vol.",
+      "Réponse B<br>de permettre des virages serrés.",
+      "Réponse C<br>d’éviter un déplacement non prévu du CG et tout dommage à l’aéronef.",
+      "Réponse D<br>de prévenir tout facteur de charge excessif lors de l’arrondi."
+    ],
+    "answer":2
+  },
+  {
+    "question":"La fiche de pesé d’un hélicoptère indique:<br><br>Masse pesée sur la roulette de nez : 866 Kg<br>Masse pesée sur le train principal gauche : 1458 Kg<br>Masse pesée sur le train principal droit : 1409 Kg<br>Distance longitudinale entre la roulette de nez et les trains principaux : 4,60 m<br><br>A partir de ces éléments déterminez la position du CG longitudinal:",
+    "options":[
+      "Réponse A<br>1,39 m avant les trains principaux",
+      "Réponse B<br>1,39 m en arrière de la roulette de nez",
+      "Réponse C<br>1,07 m en arrière de la roulette de nez",
+      "Réponse D<br>1,07 m en avant des trains principaux"
+    ],
+    "answer":3
+  },
+  {
+    "question":"Compte tenu des informations ci-après, quel est la surcharge ou la sous charge?<br><br>Masse autorisée au décollage : 4300 Kg<br>Masse en opérations : 3253 Kg<br>Masse totale de carburant : 650 Kg<br>Masse de l’équipage et de leurs bagages : 185 Kg<br>Charge de trafic : 1015 Kg",
+    "options":[
+      "Réponse A<br>Une surcharge de 153 kg",
+      "Réponse B<br>Une sous-charge de 32 kg",
+      "Réponse C<br>Une sous-charge de 397 kg",
+      "Réponse D<br>Une surcharge de 618 kg"
+    ],
+    "answer":1
+  },
+  {
+    "question":"Étant donné les informations suivantes:<br><br>Masse au décollage = 62 800 Kg<br>Masse de base = 34 200 Kg<br>Masse de l’équipage, bagages inclus = 500 Kg<br>Masse des passagers et de leurs bagages = 13 300 Kg<br>Masse du fret = 5 700 Kg<br><br>Calculez la masse du carburant au décollage",
+    "options":[
+      "Réponse A<br>15 300 kg",
+      "Réponse B<br>9 100 kg",
+      "Réponse C<br>22 900 kg",
+      "Réponse D<br>9 600 kg"
+    ],
+    "answer":3
+  },
+  {
+    "question":"Étant donné:<br><br>Masse en opération : 45430 kg<br>Charge marchande : 14730 kg<br>Charge utile : (charge marchande + carburant au décollage) : 25280 kg<br><br>La masse sans carburant est de:",
+    "options":[
+      "Réponse A<br>30700 kg",
+      "Réponse B<br>60160 kg",
+      "Réponse C<br>34880 kg",
+      "Réponse D<br>49610 kg"
+    ],
+    "answer":3
+  },
+  {
+    "question":"Le pilote effectue le calcul de masse et centrage d’un hélicoptère monomoteur à pistons équipé de 4 sièges.<br>Il a listé les données suivantes:<br><br>Masse à vide équipée : 687 kg<br>Masse du pilote : 85 kg<br>Masse du premier passager : 81 kg<br>Masse du deuxième passager : 78 kg<br>Carburant : 146 litres, densité 0,72<br>Huile moteur + fluide hydraulique : 6 kg<br>Masse maximale au décollage : 1134 kg<br><br>S’il veut transporter un troisième passager, celui-ci ne doit pas peser plus de:",
+    "options":[
+      "Réponse A<br>98 kg",
+      "Réponse B<br>183 kg",
+      "Réponse C<br>177 kg",
+      "Réponse D<br>92 kg"
+    ],
+    "answer":3
+  },
+  {
+    "question":"Une unique palette de fret d'une masse de 800 kg est chargée à bord d'un hélicoptere bi-turbine pour un vol vers plateforme offshore.<br><br>D’après l’annexe, le moment de ce chargement est:<br><img src=\"PALETTE.png\" alt=\"Palette\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options":[
+      "Réponse A<br>1855 livres",
+      "Réponse B<br>1820 livres",
+      "Réponse C<br>2870 livres",
+      "Réponse D<br>1920 livres"
+    ],
+    "answer":1
+  },
+  {
+    "question":"(Pour cette question, utiliser l’annexe  ECQB-031-070-v2016-01)<br><br>Le bras de levier latéral pour les sièges situés à la station longitudinale 139 ,7 est de...<br><img src=\"2016-01.png\" alt=\"2016-01\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options":[
+      "Réponse A<br>24,1",
+      "Réponse B<br>33,9",
+      "Réponse C<br>138",
+      "Réponse D<br>16,8"
+    ],
+    "answer":0
+  },
+  {
+    "question":"À partir des données à sa disposition, le commandant de bord décide d’avitailler 1618 USG, avec une densité de 0,8.<br>Ce volume correspond à une masse de carburant de...",
+    "options":[
+      "Réponse A<br>2222 lb",
+      "Réponse B<br>10801 lb",
+      "Réponse C<br>16877 lb",
+      "Réponse D<br>754 lb"
+    ],
+    "answer":1
   }
   
   
